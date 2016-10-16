@@ -1,0 +1,17 @@
+X	FlyBase	mRNA	12584385	12592193	11	-		gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	5UTR	12591931	12592193	11	-	.	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	5UTR	12590449	12590484	11	-	.	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	exon	12591931	12592193	11	-	.	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	exon	12589841	12590484	11	-	.	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	exon	12589256	12589321	11	-	.	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	exon	12587970	12589167	11	-	.	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	exon	12586310	12587900	11	-	.	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	exon	12584385	12586249	11	-	.	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	start_codon	12590446	12590448	.	-	0	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	CDS	12589841	12590448	11	-	0	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	CDS	12589256	12589321	11	-	1	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	CDS	12587970	12589167	11	-	1	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	CDS	12586310	12587900	11	-	0	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	CDS	12585942	12586249	11	-	2	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	stop_codon	12585939	12585941	.	-	0	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
+X	FlyBase	3UTR	12584385	12585938	11	-	.	gene_id "FBgn0041203"; gene_symbol "LIMK1"; transcript_id "FBtr0073660"; transcript_symbol "LIMK1-RC";
