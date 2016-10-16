@@ -1,18 +1,18 @@
 # ProRecon Java library
 ## Overview
-ProRecon is a lightweight Java library that is designed to RECONstruct PROteins consider different mutations.
-Detailed presentation can be found here:
-Pdf - https://drive.google.com/open?id=0B1g2jSBV2uqrZWljM3c4S1oxbGc
-Video - https://drive.google.com/open?id=0B1V1JjzgsVlLTjk4UHlrcHl3NmM
+ProRecon is a lightweight Java library that is designed to RECONstruct PROteins consider different mutations. <br />
+Detailed presentation can be found here: <br />
+Pdf - https://drive.google.com/open?id=0B1g2jSBV2uqrZWljM3c4S1oxbGc <br />
+Video - https://drive.google.com/open?id=0B1V1JjzgsVlLTjk4UHlrcHl3NmM <br />
 
 ## How to Use
-For now example can be found in temporary Main class or you can use jar with dependencies:
-java -cp prorecon.jar com.epam.prorecon.Main "dmel-all-chromosome-r606.fasta" "agnX1.model.2.snp-indels.vcf" "dmel-all-r6.06.LIMK1.gtf" "X" 12584385 12592193
-where "dmel-all-chromosome-r606.fasta" is file with original sequence,
-"agnX1.model.2.snp-indels.vcf" is file with mutations list,
-"dmel-all-r6.06.LIMK1.gtf" is file with exons positions indexes,
-"X" is chromosome name,
-12584385 is DNA sequence start index,
+For now example can be found in temporary Main class or you can use jar with dependencies: <br />
+java -cp prorecon.jar com.epam.prorecon.Main "dmel-all-chromosome-r606.fasta" "agnX1.model.2.snp-indels.vcf" "dmel-all-r6.06.LIMK1.gtf" "X" 12584385 12592193 <br />
+where "dmel-all-chromosome-r606.fasta" is file with original sequence, <br />
+"agnX1.model.2.snp-indels.vcf" is file with mutations list, <br />
+"dmel-all-r6.06.LIMK1.gtf" is file with exons positions indexes, <br />
+"X" is chromosome name, <br />
+12584385 is DNA sequence start index, <br />
 12592193 is DNA sequence end index.
 
 ## License
